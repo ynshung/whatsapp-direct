@@ -4,6 +4,8 @@ A simple React + Vite website that allows you to send WhatsApp messages to a num
 
 Demo: https://ws.ynshung.com
 
+Attribution: [Message free icons](https://www.flaticon.com/free-icon/message_6319220) by smashingstocks via @flaticon 
+
 ## Usage
 
 1. Clone the repository
