@@ -2,7 +2,7 @@
 
 A simple React + Vite website that allows you to send WhatsApp messages to a number without having to save it in your contacts and get a prefilled message link.
 
-Demo: https://wsdirect.ynshung.com
+Demo: https://ws.ynshung.com
 
 ## Usage
 
