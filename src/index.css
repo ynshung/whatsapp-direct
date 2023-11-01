@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    input[type="tel"] {
+        @apply bg-base-100
+    }
+}
